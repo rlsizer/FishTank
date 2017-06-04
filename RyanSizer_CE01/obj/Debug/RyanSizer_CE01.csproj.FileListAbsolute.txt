@@ -1,1 +1,6 @@
 \\mac\home\documents\visual studio 2015\Projects\RyanSizer_CE01\RyanSizer_CE01\bin\Debug\RyanSizer_CE01.exe.config
+\\mac\home\documents\visual studio 2015\Projects\RyanSizer_CE01\RyanSizer_CE01\bin\Debug\RyanSizer_CE01.exe
+\\mac\home\documents\visual studio 2015\Projects\RyanSizer_CE01\RyanSizer_CE01\bin\Debug\RyanSizer_CE01.pdb
+\\mac\home\documents\visual studio 2015\Projects\RyanSizer_CE01\RyanSizer_CE01\obj\Debug\RyanSizer_CE01.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\RyanSizer_CE01\RyanSizer_CE01\obj\Debug\RyanSizer_CE01.exe
+\\mac\home\documents\visual studio 2015\Projects\RyanSizer_CE01\RyanSizer_CE01\obj\Debug\RyanSizer_CE01.pdb
